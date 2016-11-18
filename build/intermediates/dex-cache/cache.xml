@@ -2,22 +2,18 @@
 <items version="2" >
 
     <item
-        jar="/Users/masterUNG/MyWorkspace/Studio_Learning/CanvasDrag/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        is-multidex="false"
+        jar="/Users/masterUNG/android-sdk-macosx/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
         jumboMode="false"
+        optimize="true"
         revision="23.0.2"
-        sha1="45baf0870ef6cf8149d1cb0b4760e010ea265978">
-        <dex dex="/Users/masterUNG/MyWorkspace/Studio_Learning/CanvasDrag/app/build/intermediates/pre-dexed/debug/instant-run_a7657c4d1f9e79322a31100d07c4b396892a79e4.jar" />
-    </item>
-    <item
-        jar="/Users/masterUNG/MyWorkspace/Studio_Learning/CanvasDrag/app/build/intermediates/incremental-classes/debug/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="463a07016dbc6a1f39698b903d823779afb5f459">
-        <dex dex="/Users/masterUNG/MyWorkspace/Studio_Learning/CanvasDrag/app/build/intermediates/pre-dexed/debug/classes_e890cc0bdbce0973a6fd231a7d79e865827bf3b3.jar" />
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/masterUNG/MyWorkspace/Studio_Learning/CanvasDrag/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_c6c5387b6413c21c5d57b72eca33a073b7380282.jar" />
     </item>
     <item
         jar="/Users/masterUNG/android-sdk-macosx/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
         jumboMode="false"
+        optimize="true"
         revision="23.0.2"
         sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
         <dex dex="/Users/masterUNG/MyWorkspace/Studio_Learning/CanvasDrag/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_c6c5387b6413c21c5d57b72eca33a073b7380282.jar" />
